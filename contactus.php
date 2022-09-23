@@ -101,9 +101,7 @@
             <div class="footer__group">
               <ul class="footer__social">
                 
-                <a href="https://twitter.com/DeepRakesh0902" target="_blank" class="footer__social-link">
-                  <i class="ri-twitter-fill"></i>
-                </a>
+                
                 
               </ul>
 
