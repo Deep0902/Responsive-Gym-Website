@@ -79,7 +79,7 @@
             <div>
               <a>
                 <i class="ri-phone-fill"></i>&nbsp  &nbsp Phone<hr>
-                425345234
+                0000000000
               </a>
               <br><br>
               <a>
@@ -101,9 +101,7 @@
             <div class="footer__group">
               <ul class="footer__social">
                 
-                <a href="https://twitter.com/DeepRakesh0902" target="_blank" class="footer__social-link">
-                  <i class="ri-twitter-fill"></i>
-                </a>
+                
                 
               </ul>
 
