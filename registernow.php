@@ -17,7 +17,9 @@ if(isset($_POST["submit"])){
     mysqli_query($conn, $query);
     echo
     "
-    <script> alert('Data Inserted Successfully'); </script>
+    <script> 
+    window.location.href = 'index.html';
+    alert('Data Inserted Successfully'); </script>
     ";
 
   }
