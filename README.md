@@ -1,4 +1,5 @@
 # Recreated a Responsive Gym Website with front-end and back-end
+Click [here](https://responsive-gym-website.herokuapp.com/) to view the project
 
 ## [Watch it on youtube](https://youtu.be/ddaY0rHqMxM)
 
