@@ -100,19 +100,16 @@
            <div class="container">
             <div class="footer__group">
               <ul class="footer__social">
-                <a href="https://www.facebook.com/" target="_blank" class="footer__social-link">
-                  <i class="ri-facebook-circle-fill"></i>
-                </a>
-                <a href="https://twitter.com/" target="_blank" class="footer__social-link">
+                
+                <a href="https://twitter.com/DeepRakesh0902" target="_blank" class="footer__social-link">
                   <i class="ri-twitter-fill"></i>
                 </a>
-                <a href="https://instagram.com/" target="_blank" class="footer__social-link">
-                  <i class="ri-instagram-line"></i>
-                </a>
+                
               </ul>
 
               <span class="footer__copy">
-                &#169; Copyright TeamResolute. All rights reserved
+                &#169; Copyright TeamResolute. All rights reserved<br>
+                Check out my GitHub profile <a href="https://github.com/Deep0902" target="_blank">here</a>
               </span>
             </div>
            </div>

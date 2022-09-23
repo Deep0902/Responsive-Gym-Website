@@ -12,7 +12,7 @@
 
         <!--=============== CSS ===============-->
         <link rel="stylesheet" href="assets/css/styles.css">
-
+        
         <title>IRON FITNESS</title>
     </head>
     <body>
@@ -178,6 +178,7 @@
             </section>
 
             
+    
 
         <!--========== SCROLL UP ==========-->
         <a href="#" class="scrollup" id="scroll-up">

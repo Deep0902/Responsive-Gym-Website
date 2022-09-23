@@ -40,7 +40,6 @@
   --z-tooltip: 10;
   --z-fixed: 100;
 }
-
 /* Responsive typography */
 @media screen and (min-width: 1024px) {
   :root {
