@@ -26,13 +26,13 @@
                 <div class="nav__menu" id="nav-menu">
                 <ul class="nav__list">
                         <li class="nav__item">
-                          <a href="/index.php" class="nav__link active-link">Home</a>
+                          <a href="/index.php" class="nav__link">Home</a>
                         </li>
                         <li class="nav__item">
                             <a href="/aboutus.php" class="nav__link">About Us</a>
                           </li>
                           <li class="nav__item">
-                            <a href="/contactus.php" class="nav__link">Contact Us</a>
+                            <a href="/contactus.php" class="nav__link active-link">Contact Us</a>
                           </li>
                           
 

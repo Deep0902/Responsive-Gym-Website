@@ -51,7 +51,7 @@ if(isset($_POST["submit"])){
 
                 <ul class="nav__list">
                         <li class="nav__item">
-                          <a href="/index.php" class="nav__link active-link">Home</a>
+                          <a href="/index.php" class="nav__link">Home</a>
                         </li>
                         <li class="nav__item">
                             <a href="/aboutus.php" class="nav__link">About Us</a>
@@ -63,7 +63,7 @@ if(isset($_POST["submit"])){
 
 
                           <div class="nav__link" >
-                            <a href="/registernow.php" target="_blank" class="nav__link">
+                            <a href="/registernow.php" target="_blank" class="nav__link active-link">
                               Register Now
                             </a>
                           </div>
