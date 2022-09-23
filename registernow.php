@@ -65,7 +65,7 @@ if(isset($_POST["submit"])){
 
 
                           <div class="nav__link" >
-                            <a href="/registernow.php" target="_blank" class="nav__link active-link">
+                            <a href="/registernow.php" class="nav__link active-link">
                               Register Now
                             </a>
                           </div>

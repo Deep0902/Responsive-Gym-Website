@@ -38,7 +38,7 @@
 
 
                           <div class="nav__link" >
-                            <a href="/registernow.php" target="_blank" class="nav__link">
+                            <a href="/registernow.php" class="nav__link">
                               Register Now
                             </a>
                           </div>
