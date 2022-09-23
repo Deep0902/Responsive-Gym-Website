@@ -18,7 +18,7 @@ if(isset($_POST["submit"])){
     echo
     "
     <script> 
-    window.location.href = 'index.html';
+    window.location.href = '/index.html';
     alert('Data Inserted Successfully'); </script>
     ";
 
