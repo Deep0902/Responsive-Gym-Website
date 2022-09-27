@@ -8,5 +8,3 @@ Click [here](https://responsive-gym-website.herokuapp.com/) to view the project
 - Includes a form to calculate body mass index.
 - Includes a form to send emails.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-![preview img](/preview.png)
